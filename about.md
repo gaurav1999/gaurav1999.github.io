@@ -1,30 +1,46 @@
 ---
-layout: page
-title: About
+layout: default
+title: intro
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## _Hey there !_
+I am **Karuna Grewal** , a sophomore at **BITS Pilani ,Goa** ,India majoring in **Computer Science**   
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+A passionate **developer** ,an **astrophile** at heart ,and a great minion lover whose little fingers sometimes get irresistibly stuck playing **keyboard jazz**.    
 
-There are currently two themes built on Poole:
+I have interests in working on **OS**  ,**networking** , **backend development** and experimenting with **ML** .
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+This blog will give you an insight into my **voyage** as I venture out on my quest to unravel the mysteries in software development in this **tech world** .
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+ 
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Feel free to connect with me :)
+<div align="center">
+	<p>
+		<a href="mailto:karunagrewal98@gmail.com">
+			<i class="fa fa-envelope-o fa-fw" aria-hidden="true" style="font-size:40px;color:#2980b9">
+			</i>
+		</a>
+		&nbsp; &nbsp; &nbsp;
+		<a href="https://github.com/aakp10">
+			<i class="fa fa-github" aria-hidden="true" style="font-size:40px;color:#2980b9">
+			</i>
+		</a>
+		&nbsp; &nbsp; &nbsp;
+		<a href="https://twitter.com/antares_9119">
+			<i class="fa fa-twitter" aria-hidden="true" style="font-size:40px;color:#2980b9">
+			</i>
+		</a>
+		&nbsp; &nbsp; &nbsp;
+		<a href="https://www.linkedin.com/in/karuna-grewal-909074141">
+			<i class="fa fa-linkedin" aria-hidden="true" style="font-size:40px;color:#2980b9">
+			</i>
+		</a>
+		&nbsp; &nbsp; &nbsp;
+		<a href="https://gitlab.gnome.org/antares/">
+			<i class="fa fa-gitlab" aria-hidden="true" style="font-size:40px;color:#2980b9">
+			</i>
+		</a>
+		&nbsp; &nbsp; &nbsp;
+	</p>
+</div>

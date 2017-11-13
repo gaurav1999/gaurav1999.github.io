@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    font-size: .95rem; /* 14px */
   }
 }
 
@@ -168,6 +168,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .sidebar-item {
   padding: 1rem;
+  font-weight: bold;
 }
 .sidebar-item p:last-child {
   margin-bottom: 0;
@@ -260,7 +261,10 @@ a.sidebar-nav-item:focus {
     display: none;
   }
 }
-
+#copyright{
+  font-weight: normal;
+  font-size: 0.85em;
+}
 /* Slide effect
  *
  * Handle the sliding effects of the sidebar and content in one spot, seperate
@@ -444,7 +448,7 @@ a.pagination-item:hover {
 /* Red */
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,
-.theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
+.theme-base-08 #sidebar-checkbox ~ .sidebar-toggle {
   background-color: #ac4142;
 }
 .theme-base-08 .container a,
@@ -480,15 +484,26 @@ a.pagination-item:hover {
 /* Green */
 .theme-base-0b .sidebar,
 .theme-base-0b .sidebar-toggle:active,
-.theme-base-0b #sidebar-checkbox:checked ~ .sidebar-toggle {
+.theme-base-0b #sidebar-checkbox ~ .sidebar-toggle 
+ {
   background-color: #90a959;
 }
+
 .theme-base-0b .container a,
 .theme-base-0b .sidebar-toggle,
 .theme-base-0b .related-posts li a:hover {
   color: #90a959;
 }
 
+#bon{
+  position:relative;
+  margin-left:30%;
+  margin-right:40%;
+  font-size: 2em;
+  color:#90a959;
+  font-weight:bold;
+
+}
 /* Cyan */
 .theme-base-0c .sidebar,
 .theme-base-0c .sidebar-toggle:active,
@@ -560,4 +575,15 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+#Recent{
+  margin-top:5%;
+}
+.subscribe{
+  margin-left: 45%;
+
+}
+.category{
+ color:#90a959;
 }

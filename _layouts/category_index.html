@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h2><b>{{ page.category }}</b></h2>
+
+{% for post in site.posts %}
+  {% if post.category == page.category %}
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+    <a href="{{ post.url }}" class="read_more">read more >></a>
+  {% endif %}
+{% endfor %}

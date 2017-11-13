@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="theme-base-0b">
 
     {% include sidebar.html %}
 
@@ -12,10 +12,17 @@
     <div class="wrap">
       <div class="masthead">
         <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
-          </h3>
+          <h1 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home"><b>{{ site.title }}</b></a>
+            <small>{{ site.tagline }}
+
+                <a href="atom.xml" class="subscribe">
+                <i class="fa fa-rss" aria-hidden="true" style="font-size:30px;color:#2980b9">
+                </i>
+              </a>
+            </small>
+              
+          </h1>
         </div>
       </div>
 
@@ -43,5 +50,6 @@
         }, false);
       })(document);
     </script>
+    <script id="dsq-count-scr" src="//antares-9119.disqus.com/count.js" async></script>
   </body>
 </html>

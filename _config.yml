@@ -1,22 +1,62 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+permalink: "/:title"
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Antares 
+tagline:             '- a Tech Voyage'
+description: >
+        An insight into some of my technical quests .....
+url:                https://aakp10.github.io/
 baseurl:             ''
-paginate:            5
+paginate: 4    
+twitter_username: antares_9119
+github_username: aakp10
+githubrepo: https://aakp10.github.io/
 
-# About/contact
+markdown: kramdown
+paginate_path: "recent_blogs/page:num/"
+inter_post_navigation: true
+
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:Karuna Grewal
+  url:https://twitter.com/antares_9119
+  email:karunagrewal98@gmail.com
 
 # Custom vars
-version:             1.0.0
+
+gems: [jekyll-paginate]
+social:
+  - name: Twitter
+    icon: twitter
+    username: antares_9119
+    url: https://twitter.com/antares_9119
+    desc: Follow me on Twitter
+    share: true
+
+  - name: GitHub
+    icon: github
+    username: aakp10
+    url: https://github.com/aakp10
+    desc: Fork me on GitHub
+    share: false
+
+  - name: LinkedIn
+    icon: linkedin
+    username: Karuna Grewal
+    url: linkedin.com/in/karuna-grewal-909074141
+    desc: Connect with me on LinkedIn
+    share: true
+
+# Social sharing protocols
+# These are for automatically generating sharing metadata for FB and Twitter
+# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
+protocols:
+    #fb_image: "/assets/nr-logo.jpg"
+    #fb_image_width: 612
+    #fb_image_height: 605
+    #fb_image_type: "image/jpg"
+
+    #twitter_image: "/assets/nr-logo.jpg"
+
+    os_repo:"https://github.com/aakp10.github.io"
+    os_rcs_type:"git"
+    os_src:"git@github.com:aakp10.github.io.git"1
