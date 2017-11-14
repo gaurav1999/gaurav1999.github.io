@@ -1,8 +1,8 @@
 permalink: "/:title"
 
 # Setup
-title:               Antares 
-tagline:             '- a Tech Voyage'
+title:               Antares'
+tagline:             'Tech Voyage'
 description: >
         An insight into some of my technical quests .....
 url:                https://aakp10.github.io/
