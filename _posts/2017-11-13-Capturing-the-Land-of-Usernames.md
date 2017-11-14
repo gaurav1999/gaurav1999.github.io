@@ -11,7 +11,7 @@ in this neverending voyage .
 
 ## How things began?
 
-Dating back to the *literature lessons* in school , was the first instance of me coming across the concept of *pen names* used by the writers.This indeed aroused a desire in me to associate myself with one to get a cloak to disguise myself.
+Dating back to the *literature lessons* in school , was the first instance of my encounter with the concept of *pen names* used by the writers.This indeed aroused a desire in me to associate myself with one to get a cloak to disguise myself.
 
 **So why did it take me such a long leap to get one?** I didn't have a great interest in writing so where would I use a pen name. 
 **Did that mean I should put aside my desire?** Certainly no ,by the time I had completed with my high school , I had figured out my interest in the software world ,and voila here comes the apt place to use a disguise .
@@ -19,9 +19,9 @@ Dating back to the *literature lessons* in school , was the first instance of me
 ## Let's ponder for a while 
 
 Amidst everything in the world, I am very fond of **stars** in particular, reasons being clear,they are **inanimate** ,you don't have to bother about their behaviour which is certainly **predictable** unlike the animate elements.  
-Have you ever wondered that it's  a star which keeps blazing even when it's the day time until the fateful day of its fuel depletion is reached .I must say ,stars indeed are a source of illumination and eternal enlightenment. So you can make them your dedicated companion for the span of entire 24 hours .*(you won't have even your dearest friend the entire day with you , but a star will surely be)*
+Have you ever wondered that it's  a star which keeps blazing even when it's the day time until the fateful day of its fuel depletion arrives .I must say ,stars indeed are a source of illumination and eternal enlightenment. So you can make them your dedicated companion for the span of entire 24 hours .*(you won't have even your dearest friend the entire day with you , but a star will surely be)*
 
- >I require this a lot because the silly me gets into various issues while working on development and at times need to spend nights trying to hack them.
+ >I require this a lot because the silly me gets into various issues while working on development and at times need to spend nights trying to hack my way out.
 
 Finally , I firmly finalised to choose my zodiac sign's brightest star **ANTARES** to be my user name for my accounts.
 >If you did scatch your head for a while you could have guessed my zodiac sign too ;p
