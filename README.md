@@ -29,4 +29,4 @@ Archive tab would let the user get a quick glimpse of the chronologized blog pos
 
 ## Comments
 
-[Jekyll](https://jekyllrb.com/) being a static site generator **doesn't** have any database associated where the comments can be logged.I have integrated [Disqus](https://help.disqus.com/) comments (a third part commenting system).
+[Jekyll](https://jekyllrb.com/) being a static site generator **doesn't** have any database associated where the comments can be logged.I have integrated [Disqus](https://disqus.com/) comments (a third part commenting system).
