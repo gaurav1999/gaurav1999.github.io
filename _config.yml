@@ -17,9 +17,9 @@ paginate_path: "recent_blogs/page:num/"
 inter_post_navigation: true
 
 author:
-  name:Karuna Grewal
-  url:https://twitter.com/antares_9119
-  email:karunagrewal98@gmail.com
+  name: Karuna Grewal
+  url: https://twitter.com/antares_9119
+  email: karunagrewal98@gmail.com
 
 # Custom vars
 
