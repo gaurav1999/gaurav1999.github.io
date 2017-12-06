@@ -585,4 +585,11 @@ a.pagination-item:hover {
 }
 .category{
  color:#90a959;
+ list-style-type: none;
+}
+#tags{
+    list-style-type: none;
+}
+#tags li{
+  display:inline;
 }

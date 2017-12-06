@@ -18,10 +18,14 @@ layout: default
     
     <ul id="tags">
       {% for tag in page.tags %}
-      <li><a href="/tags/{{ tag | slugify }}" class="tags">#{{ tag }}</a></li>
+      <li><a href="/tags/{{ tag | slugify }}" class="tags">
+            <i class="fa fa-tags" aria-hidden="true"></i>
+            {{ tag }}
+          </a>
+      </li>
       {% endfor %}
     </ul>
-  {{ content }}
+  {{ content | emojify }}
 </div>
 
 <div class="related">
