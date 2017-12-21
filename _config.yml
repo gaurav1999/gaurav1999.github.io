@@ -11,7 +11,7 @@ paginate: 4
 twitter_username: antares_9119
 github_username: aakp10
 githubrepo: https://aakp10.github.io/
-
+google_analytics: UA-111511851-1
 markdown: kramdown
 paginate_path: "recent_blogs/page:num/"
 inter_post_navigation: true
