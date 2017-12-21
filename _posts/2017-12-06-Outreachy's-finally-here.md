@@ -3,8 +3,8 @@ layout: post
 title: Outreachy's finally here ! 
 category: GNOME
 tags: GNOME outreachy
-+comments: true
-+excerpt_separator: <!--more-->
+comments: true
+excerpt_separator: <!--more-->
 ---
 It’s been a month since the [__Outreachy__ Round 15](https://www.outreachy.org/) results were announced . Yay! my proposal for adding a network panel to [__GNOME Usage__](https://wiki.gnome.org/Apps/Usage) was selected.
 I am glad to be working on something I personally have been longing for. Moreover, I finally have something to cut down on my  Xbox addiction and channelize it into bringing the network panel to life.   

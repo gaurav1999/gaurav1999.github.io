@@ -1,6 +1,8 @@
 ---
 layout : post
 title: 'Outreachy Week 2: Getting Connection Details for Network Processes '
+category: GNOME
+tags: GNOME outreachy
 comments: true
 exerpt_separator: <!--more--> 
 ---
