@@ -4,13 +4,15 @@ title: intro
 ---
 
 ## _Hey there !_
-I am **Karuna Grewal** , a sophomore at **BITS Pilani ,Goa** ,India majoring in **Computer Science**   
+I am **Karuna Grewal**, a junior undergraduate at **BITS Pilani, India** majoring in **Computer Science**   
 
-A passionate **developer** ,an **astrophile** at heart ,and a great minion lover whose little fingers sometimes get irresistibly stuck playing **keyboard jazz**.    
+A passionate **developer**, an **astrophile** at heart, and a great minion lover whose little fingers sometimes get irresistibly stuck playing **keyboard jazz**.    
 
-I have interests in working on **OS**  ,**networking** , **backend development** and experimenting with **ML** .
+All my life I've had an inclination towards interdisciplinary studies as an outcome everything **CS + {Physics, Neuroscience}** makes me nerdy.  
 
-This blog will give you an insight into my **voyage** as I venture out on my quest to unravel the mysteries in software development in this **tech world** .
+Currently my research interests basically focus upon **Operating systems**, **Networking**, **Computer Vision** and **Cyber-physical** systems. 
+
+This blog will give you an insight into my **voyage** as I venture out on my quest to unravel the mysteries in this **tech world**.
 
  
 
@@ -24,11 +26,6 @@ Feel free to connect with me :)
 		&nbsp; &nbsp; &nbsp;
 		<a href="https://github.com/aakp10">
 			<i class="fa fa-github" aria-hidden="true" style="font-size:40px;color:#2980b9">
-			</i>
-		</a>
-		&nbsp; &nbsp; &nbsp;
-		<a href="https://twitter.com/antares_9119">
-			<i class="fa fa-twitter" aria-hidden="true" style="font-size:40px;color:#2980b9">
 			</i>
 		</a>
 		&nbsp; &nbsp; &nbsp;
