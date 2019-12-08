@@ -1,25 +1,25 @@
 permalink: "/:title"
 
 # Setup
-title:               Antares'
-tagline:             'Tech Voyage'
+title:               'Gaurav Agrawal'
+tagline:             'Just Another Blog'
 description: >
-        An insight into some of my technical quests .....
-url:                https://aakp10.github.io/
+        An insight into some of my ongoing development works and open source engagement .....
+url:                https://gaurav1999.github.io/
 baseurl:             ''
 paginate: 4    
-twitter_username: antares_9119
-github_username: aakp10
-githubrepo: https://aakp10.github.io/
-google_analytics: UA-111511851-1
+twitter_username: GauravGnome
+github_username: gaurav1999
+githubrepo: https://gaurav1999.github.io/
+google_analytics: UA-134373511-3
 markdown: kramdown
 paginate_path: "recent_blogs/page:num/"
 inter_post_navigation: true
 
 author:
-  name: Karuna Grewal
-  url: https://twitter.com/antares_9119
-  email: karunagrewal98@gmail.com
+  name: Gaurav Agrawal
+  url: https://twitter.com/GauravGnome
+  email: agrawalgaurav1999@gmail.com
 
 # Custom vars
 
@@ -27,22 +27,22 @@ gems: [jekyll-paginate]
 social:
   - name: Twitter
     icon: twitter
-    username: antares_9119
-    url: https://twitter.com/antares_9119
+    username: GauravGnome
+    url: https://twitter.com/GauravGnome
     desc: Follow me on Twitter
     share: true
 
   - name: GitHub
     icon: github
-    username: aakp10
-    url: https://github.com/aakp10
+    username: gaurav1999
+    url: https://github.com/gaurav1999
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Karuna Grewal
-    url: linkedin.com/in/karuna-grewal-909074141
+    username: Gaurav Agrawal
+    url: linkedin.com/in/gaurav-agrawal-176a7616a
     desc: Connect with me on LinkedIn
     share: true
 
@@ -57,6 +57,6 @@ protocols:
 
     #twitter_image: "/assets/nr-logo.jpg"
 
-    os_repo:"https://github.com/aakp10.github.io"
+    os_repo:"https://github.com/gaurav1999.github.io"
     os_rcs_type:"git"
-    os_src:"git@github.com:aakp10.github.io.git"1
+    os_src:"git@github.com:gaurav1999.github.io.git"1

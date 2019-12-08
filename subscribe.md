@@ -5,8 +5,7 @@ title: Subscribe
 
 To get notified, you can subscribe to the blog using RSS, by adding the following links to your feeds:  
 
-* [For Outreachy related posts](https://aakp10.github.io/outreachy.xml)  
-* [For the complete blog's feed](https://aakp10.github.io/feed.xml) 
+* [For the complete blog's feed](https://gaurav1999.github.io/feed.xml) 
 
 
 	
