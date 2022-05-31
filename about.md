@@ -3,12 +3,14 @@ layout: default
 title: intro
 ---
 
-## _Hey there !_
-I am **Gaurav Agrawal**, a final year undergraduate at **UPES Dehradun, India** majoring in **Computer Science**   and **GNOME foundation** member.
+## _Hey there, I am Gaurav Agrawal !_
+Currently working as Backend Engineer at **[Zenius](https://zenius.net)**, where I design, develop and maintain Backend microservices catering to 15million+ learners. Tech that I use in work is mostly Node Js, AWS, Kafka, Apollo Graphql, Mongo DB etc.
 
-A passionate **open source developer** who loves to meet lots of new people and contribute to society. 
+In past I have contributed to **GNOME Foundation** where I served as  Foundation member, and worked on maintaining Newcomer Contribution guides,
+organized workshops, and [contributed](https://gitlab.gnome.org/gaurav1999) to apps like GNOME Gitg, Builder, Sound Recorder etc.
 
-This blog will give you an insight into my development works and my social engagements :)
+Apart from Work, I love to teach, write and engage with Community. Which is why I have started exploring Technical Writing and Jamstack Open Source Communities.
+
 
  
 
